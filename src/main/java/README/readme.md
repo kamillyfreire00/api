@@ -1,16 +1,16 @@
 #Projeto de Backend do Professor Kelson
 
 Banco de dados Listar todos os alunos
-![listaralunosbd.PNG](../../../../listaralunosbd.PNG)
+![nada haver](listaralunosbd.PNG)
 
 Insomnia - Listar todos os alunos
-![listaralunoinso.PNG](../../../../listaralunoinso.PNG)
+![LISTAR TODOS OS ALUNOS](listaralunoinso.PNG)
 
 Insomnia - Buscar aluno pelo Ip
-![INSOMNIA-BUSCARALUNOPORID.PNG](../../../../buscaraluno.PNG)
+![buscar pelo insomnia](buscaraluno.PNG)
 
 Insomnia - Deletar aluno
-![deletar.PNG](../../../../deletar.PNG)
+![deletar aluno](deletar.PNG)
 
 Banco de dados apos o delete no Insomnia
-![bdapos.PNG](../../../../bdapos.PNG)
+![apos o delete como ficou o dbeaver](bdapos.PNG)
